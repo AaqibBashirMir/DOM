@@ -8,8 +8,8 @@ changes by only using javascript.
 <h4>Hosted link version instruction:-</h4>
 First we have to open any client or browser then copy this link[https://aaqibbashirmir.github.io/DOM/]<br>
 and you will be redirect to the web page.<br>
-You will be able to see js functionalities as well.
-
+You will be able to see js functionalities as well,we have applied js everywhere color we given,padding, <br>
+width,height,margin etc and text is modified with the help of js also.
 
 <h2>Thank you</h2>
 
